@@ -1,0 +1,33 @@
+@import url("//hello.myfonts.net/count/329b61");
+
+body {
+	text-align: center;
+	font-family: 'Frontage-Regular';src: url('webfonts/329B61_0_0.eot');src: url('webfonts/329B61_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/329B61_0_0.woff2') format('woff2'),url('webfonts/329B61_0_0.woff') format('woff'),url('webfonts/329B61_0_0.ttf') format('truetype');
+	letter-spacing: -.3em;
+}
+
+h1 {
+	margin-top: 5%;
+	margin-bottom: 0;
+}
+
+select {
+	margin-top: 3%;
+	width: 15%;
+	text-align: center;
+}
+
+#idProducts {
+	text-align: left;
+
+}
+
+#underline {
+	text-decoration: underline;
+}
+
+#bold {
+	font-weight: 900;
+	font-family: helvetica, sans-serif;
+	border-top: 1px solid black;
+}
